@@ -1,0 +1,7 @@
+.deps
+figures
+pdf
+build
+**/.Auto
+.Rhistory
+/local.mk
